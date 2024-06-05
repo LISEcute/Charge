@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>charge_data/target.txt</file>
+        <file>charge_data/x4.txt</file>
+        <file>charge_data/x6.txt</file>
+        <file>charge_data/x7.txt</file>
+        <file>charge_data/x13.txt</file>
+        <file>charge_data/x14.txt</file>
+        <file>charge_data/x18.txt</file>
+        <file>charge_data/x22.txt</file>
+        <file>charge_data/x26.txt</file>
+        <file>charge_data/x28.txt</file>
+        <file>charge_data/x29.txt</file>
+        <file>charge_data/x32.txt</file>
+        <file>charge_data/x36.txt</file>
+        <file>charge_data/x41.txt</file>
+        <file>charge_data/x47.txt</file>
+        <file>charge_data/x54.txt</file>
+        <file>charge_data/x64.txt</file>
+        <file>charge_data/x73.txt</file>
+        <file>charge_data/x74.txt</file>
+        <file>charge_data/x79.txt</file>
+        <file>charge_data/x82.txt</file>
+        <file>charge_data/x92.txt</file>
+        <file>icons/lisepp_small.bmp</file>
+        <file>icons/emblem_little_plus.png</file>
+        <file>icons/bolt1.png</file>
+        <file>icons/charge1.png</file>
+        <file>icons/charge1.ico</file>
+        <file>icons/save.png</file>
+        <file>icons/open.png</file>
+        <file>cursor/finger.cur</file>
+    </qresource>
+</RCC>

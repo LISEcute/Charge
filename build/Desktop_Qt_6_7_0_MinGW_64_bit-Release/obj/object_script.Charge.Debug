@@ -1,0 +1,15 @@
+obj/ch_csd.o
+obj/ch_rec.o
+obj/ch_ion.o
+obj/ch_nrc.o
+obj/c_about.o
+obj/c_fileReadWrite.o
+obj/c_main.o
+obj/c_mainwindow.o
+obj/c_util.o
+obj/w_Label_clickable.o
+obj/qrc_c_resources.o
+obj/qrc_lise.o
+obj/moc_c_about.o
+obj/moc_c_mainwindow.o
+obj/moc_w_Label_clickable.o

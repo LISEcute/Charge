@@ -1,0 +1,22 @@
+3        *** NUMBER OF DATA SETS --> VON C.S.
+**** K-SHELL ****
+17.7        *** ZTARG-L SCREEN=0.3
+17.7       *** ZTS
+1         *** NIMIN
+1        *** NIMAX
+1         *** NFMIN
+3          *** NFMAX
+**** L-SHELL ****
+13.85       *** ZTARG-L SCREEN =4.15
+13.85       *** ZTS
+2        *** NIMIN
+2        *** NIMAX
+1         *** NFMIN
+3         *** NFMAX
+**** M-SHELL ****
+6.75       *** ZTARG-M SCREEN =11.25
+6.75       *** ZTS
+3        *** NIMIN
+3        *** NIMAX
+1        *** NFMIN
+3         *** NFMAX
